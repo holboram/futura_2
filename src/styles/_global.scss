@@ -2,7 +2,10 @@
 
 body {
   margin: 0;
-  background-color: variables.$bg;
+  // background-color: variables.$bg;
+  background: url("../assets/images/futura_background.jpg");
+  background-size: cover;
+  background-position: center;
   color: var(--text);
   font-size: 100px;
 }
